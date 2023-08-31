@@ -42,4 +42,6 @@ For the love of Bob, don't use this for anything important!
 
 ## License
 
-This project uses the [Hippocratic License, v3.0](https://firstdonoharm.dev). TL;DR, it's not *quite* open source, but as long as you're not violating human rights, being a fossil fuel company, conducting military operations, etc (see license for full details), you can essentially treat it as open source.
+This project uses the [Hippocratic License, v3.0](https://firstdonoharm.dev). TL;DR, it's not *quite* open source, but as long as you're not violating human rights, working for a fossil fuel company or military, conducting mass surveillance for either a government or a corporation, etc (see license for full details), you can essentially treat it as open source.
+
+Copyleft applies. Any derivative works must use this license.
